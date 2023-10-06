@@ -1,0 +1,47 @@
+
+.card {
+    background-color: #fff;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.1);
+    margin: 0 auto;
+    padding: 50px;
+    width: 50%;
+    border-radius: 10px;
+}
+
+.card .about {
+    height: 150px;
+    padding: 50px;
+    box-sizing: border-box;
+}
+
+.card .about h3,
+.card .about .lead {
+    font-weight: 300;
+    margin: 0;
+}
+
+.card .about h3 {
+    font-size: 24px;
+}
+
+.card .about .lead {
+    color: #aaa;
+}
+
+.tooltip-placeholder {
+    background-color: #fff;
+    border-radius: 4px;
+    font-family: monospace;
+    color: #aaa;
+    font-size: 10px;
+    position: fixed;
+    padding: 4px 0;
+    display: none;
+    z-index: 2;
+}
+
+.information {
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+}

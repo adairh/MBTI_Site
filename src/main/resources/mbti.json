@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "question": "Part 1: I or E (Hướng nội hay hướng ngoại)",
+      "choices": [
+        {
+          "question": "Bạn có dễ trong việc kết bạn mới hay không?",
+          "options": [
+            {
+              "option": 0,
+              "type": "E"
+            },
+            {
+              "option": 1,
+              "type": "I"
+            }
+          ]
+        },
+        {
+          "question": "Người khác có đánh giá bạn là người lạnh lùng hay không?",
+          "options": [
+            {
+              "option": 0,
+              "type": "I"
+            },
+            {
+              "option": 1,
+              "type": "E"
+            }
+          ]
+        },
+        {
+          "question": "Bạn thích làm việc một mình hơn?",
+          "options": [
+            {
+              "option": 0,
+              "type": "I"
+            },
+            {
+              "option": 1,
+              "type": "E"
+            }
+          ]
+        },
+        {
+          "question": "Bạn có ít bạn nhưng người nào cũng thân thiết?",
+          "options": [
+            {
+              "option": 0,
+              "type": "I"
+            },
+            {
+              "option": 1,
+              "type": "E"
+            }
+          ]
+        },
+        {
+          "question": "Bạn có dễ chia sẻ những cảm xúc của mình hay không?",
+          "options": [
+            {
+              "option": 0,
+              "type": "E"
+            },
+            {
+              "option": 1,
+              "type": "I"
+            }
+          ]
+        },
+        {
+          "question": "Bạn có dám đứng một mình thuyết trình về một vấn đề hay không?",
+          "options": [
+            {
+              "option": 0,
+              "type": "E"
+            },
+            {
+              "option": 1,
+              "type": "I"
+            }
+          ]
+        },
+        {
+          "question": "Bạn có hay tâm sự cùng bố mẹ hoặc bạn thân không?",
+          "options": [
+            {
+              "option": 0,
+              "type": "E"
+            },
+            {
+              "option": 1,
+              "type": "I"
+            }
+          ]
+        },
+        {
+          "question": "Bạn có thích nơi náo nhiệt, đông người hay không?",
+          "options": [
+            {
+              "option": 0,
+              "type": "E"
+            },
+            {
+              "option": 1,
+              "type": "I"
+            }
+          ]
+        },
+        {
+          "question": "Khi ở trong một đám đông không có người quen, bạn có chủ động đến làm quen bạn mới không?",
+          "options": [
+            {
+              "option": 0,
+              "type": "E"
+            },
+            {
+              "option": 1,
+              "type": "I"
+            }
+          ]
+        },
+        {
+          "question": "Bạn có hay là người mở đầu một cuộc tranh luận hay không?",
+          "options": [
+            {
+              "option": 0,
+              "type": "E"
+            },
+            {
+              "option": 1,
+              "type": "I"
+            }
+          ]
+        },
+        {
+          "question": "Bạn có phải là người có quan hệ rộng hay không?",
+          "options": [
+            {
+              "option": 0,
+              "type": "E"
+            },
+            {
+              "option": 1,
+              "type": "I"
+            }
+          ]
+        },
+        {
+          "question": "Bạn có hay dành thời gian để ở một mình không?",
+          "options": [
+            {
+              "option": 0,
+              "type": "I"
+            },
+            {
+              "option": 1,
+              "type": "E"
+            }
+          ]
+        },
+        {
+          "question": "Bạn có cảm thấy khó chịu khi ở trong một môi trường im ắng, mọi người không trò chuyện cùng nhau không?",
+          "options": [
+            {
+              "option": 0,
+              "type": "E"
+            },
+            {
+              "option": 1,
+              "type": "I"
+            }
+          ]
+        },
+        {
+          "question": "Bạn luôn dám nói lên tiếng lòng của mình nếu cảm thấy không hài lòng?",
+          "options": [
+            {
+              "option": 0,
+              "type": "E"
+            },
+            {
+              "option": 1,
+              "type": "I"
+            }
+          ]
+        },
+        {
+          "question": "Bạn là người đề cao tâm trạng và suy nghĩ của bản thân?",
+          "options": [
+            {
+              "option": 0,
+              "type": "I"
+            },
+            {
+              "option": 1,
+              "type": "E"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Part 2: S or N (Giác quan hay trực giác)",
+      "choices": [
+        {
+          "question": "Bạn có tin rằng trên đời có ma quỷ hay không?",
+          "options": [
+            {
+              "option": 0,
+              "type": "N"
+            },
+            {
+              "option": 1,
+              "type": "S"
+            }
+          ]
+        },
+        {
+          "question": "Bạn có thích tự trải nghiệm một vấn đề nào đó hay không?",
+          "options": [
+            {
+              "option": 0,
+              "type": "S"
+            },
+            {
+              "option": 1,
+              "type": "N"
+            }
+          ]
+        },
+        {
+          "question": "Khi làm bài trắc nghiệm mà gặp một câu hỏi mà bạn không biết câu trả lời, bạn có đánh lụi thay vì dùng phương pháp loại trừ hay không?",
+          "options": [
+            {
+              "option": 0,
+              "type": "N"
+            },
+            {
+              "option": 1,
+              "type": "S"
+            }
+          ]
+        },
+        {
+          "question": "Bạn có hay để ý mọi thứ xung quanh hay không?",
+          "options": [
+            {
+              "option": 0,
+              "type": "S"
+            },
+            {
+              "option": 1,
+              "type": "N"
+            }
+          ]
+        },
+        {
+          "question": "Bạn có dễ yêu một người từ cái nhìn đầu tiên hay không?",
+          "options": [
+            {
+              "option": 0,
+              "type": "N"
+            },
+            {
+              "option": 1,
+              "type": "S"
+            }
+          ]
+        },
+        {
+          "question": "Bạn sẽ nắm lý thuyết rồi mới bắt tay vào làm thay vì thực hành ngay?",
+          "options": [
+            {
+              "option": 0,
+              "type": "N"
+            },
+            {
+              "option": 1,
+              "type": "S"
+            }
+          ]
+        },
+        {
+          "question": "Bạn có hay đánh giá người khác qua cái nhìn đầu tiên hay không?",
+          "options": [
+            {
+              "option": 0,
+              "type": "S"
+            },
+            {
+              "option": 1,
+              "type": "N"
+            }
+          ]
+        },
+        {
+          "question": "Bạn có phải là người có thích khám phá thế giới xung quanh không?",
+          "options": [
+            {
+              "option": 0,
+              "type": "S"
+            },
+            {
+              "option": 1,
+              "type": "N"
+            }
+          ]
+        },
+        {
+          "question": "Bạn có dễ dàng ghi nhớ thông tin hay không?",
+          "options": [
+            {
+              "option": 0,
+              "type": "S"
+            },
+            {
+              "option": 1,
+              "type": "N"
+            }
+          ]
+        },
+        {
+          "question": "Bạn có trí tưởng tượng cao hay không?",
+          "options": [
+            {
+              "option": 0,
+              "type": "N"
+            },
+            {
+              "option": 1,
+              "type": "S"
+            }
+          ]
+        },
+        {
+          "question": "Bạn thích tưởng tượng khi tìm kiếm những ý tưởng, khả năng mới?",
+          "options": [
+            {
+              "option": 0,
+              "type": "N"
+            },
+            {
+              "option": 1,
+              "type": "S"
+            }
+          ]
+        },
+        {
+          "question": "Bạn giỏi trong việc đọc vị cá nhân?",
+          "options": [
+            {
+              "option": 0,
+              "type": "N"
+            },
+            {
+              "option": 1,
+              "type": "S"
+            }
+          ]
+        },
+        {
+          "question": "Bạn quá chú tâm đến những gì đang xảy ra trước mắt bạn?",
+          "options": [
+            {
+              "option": 0,
+              "type": "S"
+            },
+            {
+              "option": 1,
+              "type": "N"
+            }
+          ]
+        },
+        {
+          "question": "Quyết định và kế hoạch của bạn dựa trên những gì bạn có thể tự đánh giá?",
+          "options": [
+            {
+              "option": 0,
+              "type": "S"
+            },
+            {
+              "option": 1,
+              "type": "N"
+            }
+          ]
+        },
+        {
+          "question": "Bạn dễ dàng cảm nhận được điểm yếu ẩn bên trong một bản kế hoạch để điều chỉnh hợp lý?",
+          "options": [
+            {
+              "option": 0,
+              "type": "N"
+            },
+            {
+              "option": 1,
+              "type": "S"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Part 3: T or F (Lí trí hay cảm xúc)",
+      "choices": [
+        {
+          "question": "Bạn có phải là người ưu tiên khả năng làm việc hiệu quả hơn một đoàn đội hợp tính?",
+          "options": [
+            {
+              "option": 0,
+              "type": "T"
+            },
+            {
+              "option": 1,
+              "type": "F"
+            }
+          ]
+        },
+        {
+          "question": "Bạn có dễ dàng đưa ra quyết định một cách nhanh chóng và hợp lí hay không?",
+          "options": [
+            {
+              "option": 0,
+              "type": "T"
+            },
+            {
+              "option": 1,
+              "type": "F"
+            }
+          ]
+        },
+        {
+          "question": "Bạn có hay mua một món đồ mắc tiền chỉ vì thích dù cuối tháng bạn phải ăn mì gói hay không ? ",
+          "options": [
+            {
+              "option": 0,
+              "type": "F"
+            },
+            {
+              "option": 1,
+              "type": "T"
+            }
+          ]
+        },
+        {
+          "question": "Bạn sẽ chọn bạn cùng nhóm là bạn thân của mình dù bạn đó làm việc không tốt?",
+          "options": [
+            {
+              "option": 0,
+              "type": "F"
+            },
+            {
+              "option": 1,
+              "type": "T"
+            }
+          ]
+        },
+        {
+          "question": "Bạn sẽ lựa chọn những điều có lợi cho mình hơn là vì thích chúng?",
+          "options": [
+            {
+              "option": 0,
+              "type": "T"
+            },
+            {
+              "option": 1,
+              "type": "F"
+            }
+          ]
+        },
+        {
+          "question": "Bạn có hay chú ý đến tiểu tiết hay không?",
+          "options": [
+            {
+              "option": 0,
+              "type": "T"
+            },
+            {
+              "option": 1,
+              "type": "F"
+            }
+          ]
+        },
+        {
+          "question": "Bạn thường xuyên “ muốn là phải có bằng được “ hay không?",
+          "options": [
+            {
+              "option": 0,
+              "type": "F"
+            },
+            {
+              "option": 1,
+              "type": "T"
+            }
+          ]
+        },
+        {
+          "question": "Bạn có hay nuông chiều bản thân mà làm chậm deadline hay không?",
+          "options": [
+            {
+              "option": 0,
+              "type": "F"
+            },
+            {
+              "option": 1,
+              "type": "T"
+            }
+          ]
+        },
+        {
+          "question": "Vào những hôm lười biếng, bạn sẽ quyết định đi ngủ thay vì học bài dù ngày mai có bài kiểm tra?",
+          "options": [
+            {
+              "option": 0,
+              "type": "F"
+            },
+            {
+              "option": 1,
+              "type": "T"
+            }
+          ]
+        },
+        {
+          "question": "Khi bị phê bình, bạn sẽ cảm thấy mọi việc thật tệ và nghĩ rằng mọi người đối xử với bạn không tốt thay vì nhìn nhận lại lỗi sai?",
+          "options": [
+            {
+              "option": 0,
+              "type": "F"
+            },
+            {
+              "option": 1,
+              "type": "T"
+            }
+          ]
+        },
+        {
+          "question": "Bạn có dễ dàng bị chi phối bởi lời nói của người khác hay không?",
+          "options": [
+            {
+              "option": 0,
+              "type": "F"
+            },
+            {
+              "option": 1,
+              "type": "T"
+            }
+          ]
+        },
+        {
+          "question": "Bạn phải ngẫm nghĩ rất kỹ và rất lâu mới có thể dám đưa ra ý kiến của bản thân đúng không? ",
+          "options": [
+            {
+              "option": 0,
+              "type": "F"
+            },
+            {
+              "option": 1,
+              "type": "T"
+            }
+          ]
+        },
+        {
+          "question": "Khi gặp phải một hoàn cảnh thuận lợi với bản thân, bạn có hay chủ quan hay không?",
+          "options": [
+            {
+              "option": 0,
+              "type": "F"
+            },
+            {
+              "option": 1,
+              "type": "T"
+            }
+          ]
+        },
+        {
+          "question": "Bạn có tin rằng kết quả tốt nhất khi làm việc nhóm mà bạn đạt được là bạn đã có khoảng thời gian thực sự vui vẻ với mọi người thay vì lời khen từ giáo viên?",
+          "options": [
+            {
+              "option": 0,
+              "type": "F"
+            },
+            {
+              "option": 1,
+              "type": "T"
+            }
+          ]
+        },
+        {
+          "question": "Bạn có phải là một người dễ dàng nhận ra được sự thay đổi cảm xúc của người khác hay không?",
+          "options": [
+            {
+              "option": 0,
+              "type": "F"
+            },
+            {
+              "option": 1,
+              "type": "T"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Part 4: J or P (Nguyên tắc hay linh hoạt)",
+      "choices": [
+        {
+          "question": "Bạn có phải là người luôn đặt ra những nguyên tắc riêng hay không?",
+          "options": [
+            {
+              "option": 0,
+              "type": "J"
+            },
+            {
+              "option": 1,
+              "type": "P"
+            }
+          ]
+        },
+        {
+          "question": "Bạn có thường xuyên “ nước đến chân mới nhảy “ hay không?",
+          "options": [
+            {
+              "option": 0,
+              "type": "P"
+            },
+            {
+              "option": 1,
+              "type": "J"
+            }
+          ]
+        },
+        {
+          "question": "Bạn có phải là người sẽ nổi giận khi ai đó làm không đúng theo nguyên tắc bạn đặt ra hay không?",
+          "options": [
+            {
+              "option": 0,
+              "type": "J"
+            },
+            {
+              "option": 1,
+              "type": "P"
+            }
+          ]
+        },
+        {
+          "question": "Bạn có thích vượt qua khỏi vùng an toàn của bản thân hay không ?",
+          "options": [
+            {
+              "option": 0,
+              "type": "P"
+            },
+            {
+              "option": 1,
+              "type": "J"
+            }
+          ]
+        },
+        {
+          "question": "Bạn sẽ không bao giờ thay đổi kế hoạch của bản thân dù cho có khó khăn vô cùng?",
+          "options": [
+            {
+              "option": 0,
+              "type": "J"
+            },
+            {
+              "option": 1,
+              "type": "P"
+            }
+          ]
+        },
+        {
+          "question": "Bạn có cảm thấy môi trường quân đội thật là nghiêm khắc và bạn không thể nào sống trong đó nổi?",
+          "options": [
+            {
+              "option": 0,
+              "type": "P"
+            },
+            {
+              "option": 1,
+              "type": "J"
+            }
+          ]
+        },
+        {
+          "question": "Bạn ghét phải sống trong một khuôn khổ nào đó?",
+          "options": [
+            {
+              "option": 0,
+              "type": "P"
+            },
+            {
+              "option": 1,
+              "type": "J"
+            }
+          ]
+        },
+        {
+          "question": "Khi làm bài tập, bạn sẽ luôn lập dàn ý trước khi làm và làm theo từng bước được ghi?",
+          "options": [
+            {
+              "option": 0,
+              "type": "J"
+            },
+            {
+              "option": 1,
+              "type": "P"
+            }
+          ]
+        },
+        {
+          "question": "Bạn có thường xuyên lượt bỏ bớt ý trên dàn bài khi thấy nó không cần thiết hay không?",
+          "options": [
+            {
+              "option": 0,
+              "type": "P"
+            },
+            {
+              "option": 1,
+              "type": "J"
+            }
+          ]
+        },
+        {
+          "question": "Bạn có ghét việc phải thay đổi bản thân để thích nghi với môi trường mới hay không?",
+          "options": [
+            {
+              "option": 0,
+              "type": "J"
+            },
+            {
+              "option": 1,
+              "type": "P"
+            }
+          ]
+        },
+        {
+          "question": "Bạn có cảm thấy tức giận khi ai đó đột ngột thay đổi dự định đã đề ra cho cả hai hay không?",
+          "options": [
+            {
+              "option": 0,
+              "type": "J"
+            },
+            {
+              "option": 1,
+              "type": "P"
+            }
+          ]
+        },
+        {
+          "question": "Bạn có mong muốn kiểm soát tất cả mọi thứ xung quanh để chúng theo như ý của mình hay không?",
+          "options": [
+            {
+              "option": 0,
+              "type": "J"
+            },
+            {
+              "option": 1,
+              "type": "P"
+            }
+          ]
+        },
+        {
+          "question": "Bạn có hay hành động một cách tự phát không?",
+          "options": [
+            {
+              "option": 0,
+              "type": "P"
+            },
+            {
+              "option": 1,
+              "type": "J"
+            }
+          ]
+        },
+        {
+          "question": "Bạn có hay tự quyết định các bước làm ngay lúc đó thay vì lập ra kế hoạch trước hay không ?",
+          "options": [
+            {
+              "option": 0,
+              "type": "P"
+            },
+            {
+              "option": 1,
+              "type": "J"
+            }
+          ]
+        },
+        {
+          "question": "Bạn phải hoàn thành xong hết mọi việc đề ra trước khi làm một việc gì khác?",
+          "options": [
+            {
+              "option": 0,
+              "type": "J"
+            },
+            {
+              "option": 1,
+              "type": "P"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
