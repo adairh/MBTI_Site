@@ -154,7 +154,7 @@ public class Quiz extends HttpServlet {
                     connection.close();
                 }
             } catch (SQLException | ClassNotFoundException e) {
-                throw new RuntimeException(e);
+                //throw new RuntimeException(e);
             }
 
         getServletContext().getRequestDispatcher("/result.jsp")
