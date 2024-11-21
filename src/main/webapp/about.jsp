@@ -125,6 +125,7 @@
 									statement.close();
 									conn.close();
 								} catch (ClassNotFoundException | SQLException e) {
+									System.out.println("Connection failed: " + e.getMessage());
 									throw new RuntimeException(e);
 								}
 								for (Comment cmt : comments) {
