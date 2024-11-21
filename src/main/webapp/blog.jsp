@@ -10,8 +10,8 @@
 						<div class="col-lg-5">
 							<div class="intro-excerpt">
 								<h1>Blog</h1>
-								<p class="mb-4">Một số bài viết về MBTI.</p>
-								<p><a href="quiz" class="btn btn-secondary me-2">Test now!</a><a href="#" class="btn btn-white-outline">Explore</a></p>
+								<p class="mb-4">Một số bài viết.</p>
+								<p><a href="quiz" class="btn btn-secondary me-2">BOOK now!</a><a href="#" class="btn btn-white-outline">Explore</a></p>
 							</div>
 						</div>
 						<div class="col-lg-7">

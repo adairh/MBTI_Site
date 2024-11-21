@@ -34,8 +34,8 @@
 
         <div class="row g-5 mb-5">
             <div class="col-lg-4">
-                <div class="mb-4 footer-logo-wrap"><a href="#" class="footer-logo">MBTI<span>.</span></a></div>
-                <p class="mb-4">Trang web được tạo ra với mục đích hỗ trợ bài Nghiên cứu Khoa học của nhóm.</p>
+                <div class="mb-4 footer-logo-wrap"><a href="#" class="footer-logo">SPA<span>.</span></a></div>
+                <p class="mb-4">Demo spa.</p>
 
                 <ul class="list-unstyled custom-social">
                     <li><a href="#"><span class="fa fa-brands fa-facebook-f"></span></a></li>
@@ -75,9 +75,9 @@
 
                     <div class="col-6 col-sm-6 col-md-3">
                         <ul class="list-unstyled">
-                            <li><a href="#">Ngọc Hằng</a></li>
-                            <li><a href="#">Như Ý</a></li>
-                            <li><a href="#">Anh Mỹ</a></li>
+                            <li><a href="#">............</a></li>
+                            <li><a href="#">............</a></li>
+                            <li><a href="#">............</a></li>
                         </ul>
                     </div>
                 </div>
@@ -89,7 +89,7 @@
             <div class="row pt-4">
                 <div class="col-lg-6">
                     <p class="mb-2 text-center text-lg-start">Copyright &copy;<script>document.write(new Date().getFullYear());</script>
-                        <a href="">MBTI - Giúp học sinh tìm ra nghề nghiệp phù hợp</a>
+                        <a href="">DEMO TEMP</a>
                     </p>
                 </div>
 

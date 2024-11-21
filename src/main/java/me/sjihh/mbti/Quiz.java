@@ -103,7 +103,7 @@ public class Quiz extends HttpServlet {
             req.setAttribute("mbti", mbtiData);
             try {
                 Class.forName("com.mysql.cj.jdbc.Driver");
-                Connection connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/mbti", "admin", "admin");
+                Connection connection = DriverManager.getConnection("jdbc:mysql://sql12.freemysqlhosting.net:3306/sql12746309", "sql12746309", "lWI1awXtWR");
 
 
                 if (req.getSession() != null && req.getSession().getAttribute("authenticatedUser") != null) {

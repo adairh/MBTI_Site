@@ -11,12 +11,12 @@
 					<div class="col-lg-5">
 						<div class="intro-excerpt">
 							<h1 style="color: #626262;">Myers-Briggs<br><span clsas="d-block">Type Indicator</span></h1>
-							<p><a href="quiz" class="btn btn-secondary me-2">Test now!</a><a href="#" class="btn btn-white-outline">Explore</a></p>
+							<p><a href="quiz" class="btn btn-secondary me-2">TEST now!</a><a href="#" class="btn btn-white-outline">Explore</a></p>
 						</div>
 					</div>
 					<div class="col-lg-7">
 						<div class="hero-img-wrap">
-							<img src="images/mbti.png" class="img-fluid">
+							<img src="images/.png" class="img-fluid">
 						</div>
 					</div>
 					<div class="row justify-content-between"><br></div>
@@ -35,14 +35,14 @@
 							MBTI, viết tắt của Myers-Briggs Type Indicator, là một công cụ phân loại tính cách dựa trên công trạng của Katherine Cook Briggs và Isabel Briggs Myers. Với sự kết hợp của bốn yếu tố chính - Hướng ngoại hoặc Hướng nội, Thu thập thông tin qua giác quan hoặc Quyết đoán thông qua trực giác, Ra quyết định dựa trên tình cảm hoặc Ra quyết định dựa trên lý thuyết, và Sắp xếp cuộc sống hoặc Tính linh hoạt - MBTI phân loại con người thành 16 loại tính cách khác nhau. Công cụ này thường được sử dụng trong lĩnh vực tâm lý học, quản lý và nhân sự để giúp cá nhân hiểu về bản chất của họ và cách họ tương tác với người khác. Tuy nhiên, MBTI cũng đã gặp phải nhiều tranh cãi về tính khoa học và tính chính xác của nó, do đó cần thận trọng khi áp dụng trong thực tế.
 						</p>
 						<p><a href="quiz" class="btn">Explore</a></p>
-					</div> 
+					</div>
 					<!-- End Column 1 -->
 					<!-- Start Column 2 -->
 					<div class="col-12 col-lg-6 mb-5 mb-md-0">
 						<div class="mb-4">
 							<img src="images/KatherineCookBriggs_IsabelBriggsMyers.jpg" class="img-fluid">
 						</div>
-					</div> 
+					</div>
 					<!-- End Column 2 -->
 				</div>
 			</div>

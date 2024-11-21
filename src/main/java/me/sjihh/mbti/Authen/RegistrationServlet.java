@@ -26,7 +26,7 @@ public class RegistrationServlet extends HttpServlet {
         // Store the user in the database
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
-            Connection conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/mbti", "admin", "admin");
+            Connection conn = DriverManager.getConnection("jdbc:mysql://sql12.freemysqlhosting.net:3306/sql12746309", "sql12746309", "lWI1awXtWR");
             String query = "INSERT INTO users (" +
                     "username, password, email, registration_date, last_login, active, mbti_id" +
                     ") VALUES (?, ?, ?, ?, ?, ?, ?)";

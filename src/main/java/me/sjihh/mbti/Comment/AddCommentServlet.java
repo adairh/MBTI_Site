@@ -30,7 +30,7 @@ public class AddCommentServlet extends HttpServlet {
             int userId = ((User)request.getSession().getAttribute("authenticatedUser")).getUserId();
             // Insert the comment into the database
             try {
-                Connection conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/mbti?useUnicode=true&characterEncoding=UTF-8", "admin", "admin");
+                Connection conn = DriverManager.getConnection("jdbc:mysql://sql12.freemysqlhosting.net:3306/sql12746309", "sql12746309", "lWI1awXtWR");
                 String query = "INSERT INTO comments (cmt_content, user_id, cmt_time) VALUES (?, ?, NOW())";
                 System.out.println(query);
                 PreparedStatement preparedStatement = conn.prepareStatement(query);
